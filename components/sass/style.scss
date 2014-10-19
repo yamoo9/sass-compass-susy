@@ -1,7 +1,7 @@
 // style.scss
 // ==============
  
-//Compass imports
+// Compass 프레임워크
 @import "compass";
 @import "compass/reset";
 @import "compass/css3/box-shadow";
@@ -10,7 +10,7 @@
 @import "compass/css3/flexbox";
 @import "compass/css3/transition";
 
-//External Libraries
-@import "susy";
-@import "breakpoint";
+// 라이브러리
+@import "susy"; // 그리드 시스템
+@import "breakpoint"; // 반응형 브레이크 포인트
 
