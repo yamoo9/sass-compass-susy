@@ -1,0 +1,17 @@
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msm
+*.msp
+*.lnk
+
+.DS_Store
+
+node_modules
+.tmp
+
+.sass-cache
+builds/**/images/*

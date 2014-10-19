@@ -1,0 +1,22 @@
+{
+  "name": "Sass-Compass-Susy-gulp-project-template",
+  "version": "0.0.1",
+  "description": "반응형 웹 디자인 제작 템플릿 - Sass, Compass, Susy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yamoo9/sass-compass-susy.git"
+  },
+  "author": "yamoo9",
+  "devDependencies": {
+    "gulp": "^3.8.7",
+    "gulp-util": "^2.2.20",
+    "gulp-concat": "^2.3.4",
+    "gulp-browserify": "^0.5.0",
+    "jquery": "^2.1.1",
+    "gulp-compass": "^1.2.0",
+    "gulp-connect": "^2.0.6",
+    "gulp-if": "^1.2.4",
+    "gulp-uglify": "^0.3.1",
+    "gulp-minify-html": "^0.1.4"
+  }
+}
