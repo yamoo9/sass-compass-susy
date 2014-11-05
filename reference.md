@@ -1,1 +1,1 @@
-[Gulp Project Template](https://github.com/leonidas/gulp-project-template)
+- <a href="https://github.com/leonidas/gulp-project-template" target="_blank">Gulp Project Template</a>
