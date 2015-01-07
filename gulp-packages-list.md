@@ -17,7 +17,8 @@
     관찰(Watch) 업무 중, 오류가 발생해도 파이프(Pipe) 중지 X
   - [gulp-sourcemaps](https://github.com/floridoo/gulp-sourcemaps)<br>
     개발용 소스맵 생성
-
+  - [gulp-load-plugins](https://www.npmjs.com/package/gulp-load-plugins)<br>
+    package.json 파일을 읽어, 자동으로 플러그인 호출
 
 - __웹 테스트 환경(Web Server Testing)__
   - [gulp-connect-multi](https://github.com/torifat/gulp-connect-multi)<br>
